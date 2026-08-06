@@ -5,3 +5,4 @@ J-LINK驱动下载
 
 截止20260806，最新版本是JLink_Windows_V966_x86_64
 我也上传了。
+https://www.ilanzou.com/s/876l2LtS
